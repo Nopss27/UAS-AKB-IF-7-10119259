@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/K.O/UTS_AKB/MyDiary/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/K.O/UTS_AKB/MyDiary/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/MyDiary/app/src/main/res/layout/activity_new_detail.xml" value="0.22056159420289856" />
+        <entry key="..\:/K.O/UTS_AKB/MyDiary/app/src/main/res/layout/activity_new_notes.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/MyDiary/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/drawable/shape.xml" value="0.1185" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_add_note.xml" value="0.2" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_details.xml" value="0.22780797101449277" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_details2.xml" value="0.176" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_info.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_new_detail.xml" value="0.24210526315789474" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_new_notes.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/activity_splash_screen.xml" value="0.20969202898550723" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/content_details2.xml" value="0.4" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/custom_list_view.xml" value="0.12" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/fragment_first2.xml" value="0.176" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/fragment_second2.xml" value="0.2210144927536232" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/note_cell.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/layout/viewpager_item.xml" value="0.1" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/menu/add_menu.xml" value="0.264" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/K.O/UTS_AKB/UTS3/app/src/main/res/menu/save_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
